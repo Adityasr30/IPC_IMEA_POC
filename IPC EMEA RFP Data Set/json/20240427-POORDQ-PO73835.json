@@ -1,0 +1,46 @@
+{
+        "order_type" : "0",
+        "marketplace_order_id" : "PO73835",
+        "partner" : "8713018002219",
+        "supplier_code" : "POORDQ",
+        "order_details" : {
+                "items" : [
+                {
+                        "gtin" : "30825146072077",
+                        "unit_price_exl_tax" : "7.7400000",
+                        "qty" : "40"
+                },
+                {
+                        "gtin" : "30825146072503",
+                        "unit_price_exl_tax" : "7.9800000",
+                        "qty" : "42"
+                },
+                {
+                        "id" : "30825146073654",
+                        "unit_price_exl_tax" : "",
+                        "qty" : "45"
+                }
+                ],
+                "partner_GLN" : "8713018002219",
+                "billing_address" : {
+                        "state" : "High Wycombe",
+                        "street" : "40 Oxford Road",
+                        "country" : "GB",
+                        "postcode" : "HP11 2EE"
+                },
+                "delivery_address" : {
+                        "country" : "GB",
+                        "address1" : "Distribco Loading Bay",
+                        "address2" : "Brook Street, High Wycombe",
+                        "postcode" : "HP11 2EQ"
+                },
+                "order_create_date" : "2024-04-27T15:48:11",
+                "promised_delivery_date" : "2024-05-27T15:48:11",
+                "promised_shipment_date" : "2024-05-25T15:48:11"
+        },
+                 "products" : [
+                          30825146073654, 
+                          30825146072503, 
+                          30825146073654
+             ]
+}
